@@ -1,5 +1,5 @@
-# Ubuntu-titus
-Ubuntu customizations from Chris Titus Tech
+# Ubuntu-hawatri
+Ubuntu customizations from Hawatri
  
 ## Requirements
 _This is a Ubuntu server build_
@@ -11,8 +11,8 @@ Download from <https://ubuntu.com/download/server> and install the ISO using any
 ### Installation Guide
 
 ```
-git clone https://github.com/ChrisTitusTech/ubuntu-titus
-cd ubuntu-titus
+git clone https://github.com/ChrisTitusTech/hawatri-ubuntu
+cd hawatri-ubuntu
 sudo ./install.sh
 ```
 
