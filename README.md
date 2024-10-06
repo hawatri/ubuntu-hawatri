@@ -11,7 +11,7 @@ Download from <https://ubuntu.com/download/server> and install the ISO using any
 ### Installation Guide
 
 ```
-git clone https://github.com/ChrisTitusTech/hawatri-ubuntu
+git clone https://github.com/ChrisTitusTech/ubuntu-hawatri
 cd hawatri-ubuntu
 sudo ./install.sh
 ```
